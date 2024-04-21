@@ -1,2 +1,2 @@
-# DataScience
-Hands lab to create Jupyter Notebook
+# DataScience Assignment
+Hands on lab to create Jupyter Notebook
